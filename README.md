@@ -49,19 +49,15 @@ Este projeto será dividido em duas fases. Na primeira fase, serão utilizados d
 
 
 
-### Analysis 
+### Bibliotecas usadas na visualização dos dados nesse projeto:
 
++ Matplotlib
++ Plotly
++ Bokeh
++ Bar_chart_race
++ Folium
++ Geopy
 
-Folgende Fragen werde ich durch der Analyse  beantworten:
-
-+ Die ursprüngliche Idee von Airbnb bestand darin, ein Zimmer oder ein Mehrbettzimmer im eigenen Zuhause anzubieten. Ist das immer noch so?
-+ Welche Art von Immobilien wird auf Airbnb am häufigsten vermietet?
-+ Sind die Angebote gleichmäßig über die Stadtteile verteilt oder gibt es Hotspots?
-+ Welcher Viertel ist im Datensatz am teuersten?
-+ Was ist der Durchschnittspreis für Mieten?
-+ Welcher Host hat die meisten Anzeigen?
-+ Was ist der Durchschnitt der Mindestaufenthaltsdauer für Mietwohnungen (minimum_nights)?
-+ Sind Immobilien im Besitz einzelner Nutzer oder gibt es Nutzer mit mehreren Mietobjekten (d. h. potenziell für Spekulationen)?
 
 
 
