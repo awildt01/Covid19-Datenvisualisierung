@@ -14,8 +14,8 @@ O processo de analisar uma nova doença, como uma pandemia global, é incrivelme
 
 
 **Links:**
-* [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
-* [Medium](https://medium.com/@alexandrewildtgraziani/analyse-der-airbnb-berlin-b002125a56f9)
+* [Notebook](https://colab.research.google.com/drive/1B2cOWIayjcrGiUuFJhxIJS3ytO0W1P_E?hl=de#scrollTo=TOR9byxLPzT1)
+* [Medium](https://medium.com/@alexandrewildtgraziani/covid19-datenvisualisierung-3b2d1de1cef3)
 * [Blog](https://sigmoidal.ai)
 
 ### Beschaffung der Daten
