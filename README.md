@@ -11,7 +11,7 @@ Covid19
 
 O processo de analisar uma nova doença, como uma pandemia global, é incrivelmente desafiador. A falta de conhecimento prévio sobre a doença torna difícil entender sua propagação e impacto na saúde pública. Além disso, surgem conflitos entre os dados fornecidos pelos governos federal e estaduais, bem como por fontes não oficiais. Governos podem ter razões políticas e econômicas para apresentar dados de maneiras específicas, resultando em discrepâncias nas estatísticas oficiais. Além disso, diferenças nas metodologias de coleta de dados e nas definições de casos também contribuem para a disparidade nas informações. Nesse cenário desafiador, é fundamental para os analistas e pesquisadores utilizarem métodos rigorosos, fontes confiáveis e abordagens transparentes ao analisar dados relacionados a novas doenças. A colaboração internacional, a transparência nos processos de coleta de dados e a comunicação eficaz são essenciais para entender adequadamente e responder a uma doença emergente.
 
-Este projeto será dividido em duas fases. Na primeira fase, serão utilizados dados da Covid-19 de vários países, especialmente da China, EUA, Brasil e Alemanha. Utilizando técnicas de visualização de dados, serão respondidas questões analíticas específicas. Primeiramente, os conjuntos de dados são preparados e, em seguida, os seguintes pontos são investigados:"
+
 
 **Links:**
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
