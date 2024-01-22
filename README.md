@@ -19,12 +19,25 @@ Este projeto será dividido em duas fases. Na primeira fase, serão utilizados d
 * [Blog](https://sigmoidal.ai)
 
 ### Beschaffung der Daten
-Alle hier verwendeten Daten wurden von der Website Inside Airbnb bezogen.
+ Os dados foram obtidos do site Our World in Data, uma instituição filantrópica sediada na Oxford Martin School, que faz parte da Faculdade de Ciências Sociais da Universidade de Oxford.
+ Seu objetivo é fornecer dados sobre desenvolvimento populacional, alimentação, tecnologia, guerra, prosperidade, mídia e política, entre outras áreas, considerando aspectos demográficos, econômicos, geográficos e culturais.
+ Our World in Data obtém seus dados de instituições internacionais ou agências estatísticas, como a OCDE, o Banco Mundial e instituições da ONU. Além disso, utiliza dados oficiais de fontes governamentais. Por exemplo, nossos conjuntos de dados sobre vacinação e testes de COVID-19 compilam os números oficiais mais recentes publicados por governos e ministérios da saúde em todo o mundo.
 
 Für diese anfängliche explorative Analyse wird nur die folgende Datei heruntergeladen:
 
 - listings.csv - Zusammenfassende Informationen und Metriken für Angebote in Berlin (geeignet für Visualisierungen).
 Wichtig:  Die Website entwickelt sich ständig weiter, und es kann sein, dass zu einem bestimmten Zeitpunkt der genaue Datensatz, der in diesem Notebook verwendet wird, nicht mehr verfügbar ist, was unseren Code beeinträchtigen würde
+
+  Os dados foram obtidos do site Our World in Data, uma instituição filantrópica sediada na Oxford Martin School, que faz parte da Faculdade de Ciências Sociais da Universidade de Oxford.
+
+Seu objetivo é fornecer dados sobre desenvolvimento populacional, alimentação, tecnologia, guerra, prosperidade, mídia e política, entre outras áreas, considerando aspectos demográficos, econômicos, geográficos e culturais.
+
+Our World in Data obtém seus dados de instituições internacionais ou agências estatísticas, como a OCDE, o Banco Mundial e instituições da ONU. Além disso, utiliza dados oficiais de fontes governamentais. Por exemplo, nossos conjuntos de dados sobre vacinação e testes de COVID-19 compilam os números oficiais mais recentes publicados por governos e ministérios da saúde em todo o mundo.
+
+Website neste link.
+Vamos criar um mapa da COVID-19 no Brasil. Para isso, vou utilizar a biblioteca Folium. A base de dados será a do Ministério da Saúde, onde vamos converter os endereços em coordenadas geográficas (latitude e longitude).
+
+Website neste link.
 
 
 ### Projekt 
@@ -58,6 +71,7 @@ Folgende Fragen werde ich durch der Analyse  beantworten:
 + Welcher Host hat die meisten Anzeigen?
 + Was ist der Durchschnitt der Mindestaufenthaltsdauer für Mietwohnungen (minimum_nights)?
 + Sind Immobilien im Besitz einzelner Nutzer oder gibt es Nutzer mit mehreren Mietobjekten (d. h. potenziell für Spekulationen)?
+
 
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
