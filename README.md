@@ -24,21 +24,13 @@ Este projeto será dividido em duas fases. Na primeira fase, serão utilizados d
  Seu objetivo é fornecer dados sobre desenvolvimento populacional, alimentação, tecnologia, guerra, prosperidade, mídia e política, entre outras áreas, considerando aspectos demográficos, econômicos, geográficos e culturais.
  Our World in Data obtém seus dados de instituições internacionais ou agências estatísticas, como a OCDE, o Banco Mundial e instituições da ONU. Além disso, utiliza dados oficiais de fontes governamentais. Por exemplo, nossos conjuntos de dados sobre vacinação e testes de COVID-19 compilam os números oficiais mais recentes publicados por governos e ministérios da saúde em todo o mundo.
 
-Für diese anfängliche explorative Analyse wird nur die folgende Datei heruntergeladen:
+* [link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 
-- listings.csv - Zusammenfassende Informationen und Metriken für Angebote in Berlin (geeignet für Visualisierungen).
-Wichtig:  Die Website entwickelt sich ständig weiter, und es kann sein, dass zu einem bestimmten Zeitpunkt der genaue Datensatz, der in diesem Notebook verwendet wird, nicht mehr verfügbar ist, was unseren Code beeinträchtigen würde
 
-  Os dados foram obtidos do site Our World in Data, uma instituição filantrópica sediada na Oxford Martin School, que faz parte da Faculdade de Ciências Sociais da Universidade de Oxford.
+Além disso Vamos criar um mapa da COVID-19 no Brasil. Para isso, vou utilizar a biblioteca Folium. A base de dados será a do Ministério da Saúde, onde vamos converter os endereços em coordenadas geográficas (latitude e longitude).
 
-Seu objetivo é fornecer dados sobre desenvolvimento populacional, alimentação, tecnologia, guerra, prosperidade, mídia e política, entre outras áreas, considerando aspectos demográficos, econômicos, geográficos e culturais.
+* [link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 
-Our World in Data obtém seus dados de instituições internacionais ou agências estatísticas, como a OCDE, o Banco Mundial e instituições da ONU. Além disso, utiliza dados oficiais de fontes governamentais. Por exemplo, nossos conjuntos de dados sobre vacinação e testes de COVID-19 compilam os números oficiais mais recentes publicados por governos e ministérios da saúde em todo o mundo.
-
-Website neste link.
-Vamos criar um mapa da COVID-19 no Brasil. Para isso, vou utilizar a biblioteca Folium. A base de dados será a do Ministério da Saúde, onde vamos converter os endereços em coordenadas geográficas (latitude e longitude).
-
-Website neste link.
 
 
 ### Projekt 
