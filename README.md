@@ -24,12 +24,12 @@ Este projeto será dividido em duas fases. Na primeira fase, serão utilizados d
  Seu objetivo é fornecer dados sobre desenvolvimento populacional, alimentação, tecnologia, guerra, prosperidade, mídia e política, entre outras áreas, considerando aspectos demográficos, econômicos, geográficos e culturais.
  Our World in Data obtém seus dados de instituições internacionais ou agências estatísticas, como a OCDE, o Banco Mundial e instituições da ONU. Além disso, utiliza dados oficiais de fontes governamentais. Por exemplo, nossos conjuntos de dados sobre vacinação e testes de COVID-19 compilam os números oficiais mais recentes publicados por governos e ministérios da saúde em todo o mundo.
 
-* [link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
+* [Link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 
 
 Além disso Vamos criar um mapa da COVID-19 no Brasil. Para isso, vou utilizar a biblioteca Folium. A base de dados será a do Ministério da Saúde, onde vamos converter os endereços em coordenadas geográficas (latitude e longitude).
 
-* [link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
+* [Link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 
 
 
