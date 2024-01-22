@@ -11,7 +11,7 @@ Covid19
 
 O processo de analisar uma nova doença, como uma pandemia global, é incrivelmente desafiador. A falta de conhecimento prévio sobre a doença torna difícil entender sua propagação e impacto na saúde pública. Além disso, surgem conflitos entre os dados fornecidos pelos governos federal e estaduais, bem como por fontes não oficiais. Governos podem ter razões políticas e econômicas para apresentar dados de maneiras específicas, resultando em discrepâncias nas estatísticas oficiais. Além disso, diferenças nas metodologias de coleta de dados e nas definições de casos também contribuem para a disparidade nas informações. Nesse cenário desafiador, é fundamental para os analistas e pesquisadores utilizarem métodos rigorosos, fontes confiáveis e abordagens transparentes ao analisar dados relacionados a novas doenças. A colaboração internacional, a transparência nos processos de coleta de dados e a comunicação eficaz são essenciais para entender adequadamente e responder a uma doença emergente.
 
-Die Analyse von Tausenden von Anzeigen, die über Airbnb bereitgestellt werden, ist ein entscheidender Faktor für das Unternehmen. Unser Hauptziel ist es, die wichtigsten Metriken zu ermitteln, die die Auflistung von Immobilien auf der Plattform beeinflussen. Zu diesem Zweck werden wir den Airbnb-Datensatz in Berlin mithilfe grundlegender Techniken der explorativen Datenanalyse (EDA) erkunden und visualisieren. Wir haben die Verteilung jeder Airbnb-Anzeige basierend auf ihrer Lage, einschließlich Preisbereich, Zimmertyp, Anzeigenname und anderen relevanten Faktoren, entdeckt. Wir haben diesen Datensatz aus verschiedenen Blickwinkeln analysiert und interessante Erkenntnisse gewonnen. Dies kann dem Marketingteam, dem Finanzteam und dem technischen Team von Airbnb bei datenbasierten strategischen Entscheidungen helfen.
+Este projeto será dividido em duas fases. Na primeira fase, serão utilizados dados da Covid-19 de vários países, especialmente da China, EUA, Brasil e Alemanha. Utilizando técnicas de visualização de dados, serão respondidas questões analíticas específicas. Primeiramente, os conjuntos de dados são preparados e, em seguida, os seguintes pontos são investigados:"
 
 **Links:**
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
@@ -29,25 +29,19 @@ Wichtig:  Die Website entwickelt sich ständig weiter, und es kann sein, dass zu
 
 ### Projekt 
 
-Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
-Die folgenden schritt werden in der Analyse durch durchgeführt
+Este projeto será dividido em duas fases. Na primeira fase, serão utilizados dados da Covid-19 de vários países, especialmente da China, EUA, Brasil e Alemanha. Utilizando técnicas de visualização de dados, serão respondidas questões analíticas específicas. Primeiramente, os conjuntos de dados são preparados e, em seguida, os seguintes pontos são investigados:"
 
-1. Data Laden 
+1. Como está a disseminação do vírus nesses países?
 
-2. Datenüberblick: Ersten Blick auf die Daten, um deren Struktur und Größe zu verstehen. Anzeigen der ersten Zeilen, Spaltennamen und Datentypen.
+2. Taxa de Letalidade: A percentagem de casos confirmados de COVID-19 que resultam em morte.
 
-3. Datenbereinigung: Identifizieren und behandeln von fehlende Werte, Dubletten oder Ausreißer.
+3. As restrições nacionais e o autoisolamento em decorrência da Covid-19 têm impacto real na transmissão da COVID-19?
 
-4. Deskriptive Statistiken: Berechnung grundlegender statistischer Maße wie Durchschnitt, Median, Standardabweichung und Quartile, um ein besseres Verständnis der Verteilung der Daten zu erhalten.
+4. Visualização dos efeitos do lockdown e na taxa de mortalidade.
   
-5. Datenvisualisierung: Erstellung vom Diagramme, Grafiken und Plots, um die Verteilung und Beziehungen zwischen den Variablen zu visualisieren.
+5. Relação entre casos confirmados e óbitos confirmados.
 
-6. Korrelationsanalyse: Untersuchung von Korrelationen zwischen verschiedenen Variablen, um festzustellen, ob starke Beziehungen vorhanden sind.
-
-7. Hypothesenbildung: Auf der Grundlage von Beobachtungen und Analysen werden angenommen, wie verschiedene Faktoren miteinander in Beziehung stehen
-
-
-
+6. Incidência: O número de novos casos por uma população específica (geralmente por 100.000 habitantes) em um determinado período.
 
 
 
