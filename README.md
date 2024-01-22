@@ -48,7 +48,6 @@ Este projeto será dividido em duas fases. Na primeira fase, serão utilizados d
 6. Incidência: O número de novos casos por uma população específica (geralmente por 100.000 habitantes) em um determinado período.
 
 
-
 ### Bibliotecas usadas na visualização dos dados nesse projeto:
 
 + Matplotlib
