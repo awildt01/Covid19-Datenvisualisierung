@@ -18,7 +18,7 @@ O processo de analisar uma nova doença, como uma pandemia global, é incrivelme
 * [Medium](https://medium.com/@alexandrewildtgraziani/covid19-datenvisualisierung-3b2d1de1cef3)
 * [Blog](https://sigmoidal.ai)
 
-### Beschaffung der Daten
+### Obtenção dos Dados
  Os dados foram obtidos do site Our World in Data, uma instituição filantrópica sediada na Oxford Martin School, que faz parte da Faculdade de Ciências Sociais da Universidade de Oxford. Seu objetivo é fornecer dados sobre desenvolvimento populacional, alimentação, tecnologia, guerra, prosperidade, mídia e política, entre outras áreas, considerando aspectos demográficos, econômicos, geográficos e culturais.
  Our World in Data obtém seus dados de instituições internacionais ou agências estatísticas, como a OCDE, o Banco Mundial e instituições da ONU. Além disso, utiliza dados oficiais de fontes governamentais. Por exemplo, nossos conjuntos de dados sobre vacinação e testes de COVID-19 compilam os números oficiais mais recentes publicados por governos e ministérios da saúde em todo o mundo.
 
