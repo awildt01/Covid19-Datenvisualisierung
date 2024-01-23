@@ -33,7 +33,9 @@ Além disso Vamos criar um mapa da COVID-19 no Brasil. Para isso, vou utilizar a
 
 ### Projekt 
 
-Este projeto será dividido em duas fases. Na primeira fase, serão utilizados dados da Covid-19 de vários países, especialmente da China, EUA, Brasil e Alemanha. Utilizando técnicas de visualização de dados, serão respondidas questões analíticas específicas. Primeiramente, os conjuntos de dados são preparados e, em seguida, os seguintes pontos são investigados:"
+Este projeto será dividido em duas fases. Na primeira fase, serão utilizados dados da Covid-19 de vários países, especialmente da China, EUA, Brasil e Alemanha. Utilizando técnicas de visualização de dados, serão respondidas questões analíticas específicas. Primeiramente, os conjuntos de dados são preparados e, em seguida, os seguintes pontos são investigados. 
+
+A Taxa de Infecção, Taxa de letalidade Brasil
 
 1. Como está a disseminação do vírus nesses países?
 
