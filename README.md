@@ -9,7 +9,8 @@ Covid19
 <sub>*Lead Data Scientist*</sub>
 
 
-O processo de analisar uma nova doença, como uma pandemia global, é incrivelmente desafiador. A falta de conhecimento prévio sobre a doença torna difícil entender sua propagação e impacto na saúde pública. Além disso, surgem conflitos entre os dados fornecidos pelos governos federal e estaduais, bem como por fontes não oficiais. Governos podem ter razões políticas e econômicas para apresentar dados de maneiras específicas, resultando em discrepâncias nas estatísticas oficiais. Além disso, diferenças nas metodologias de coleta de dados e nas definições de casos também contribuem para a disparidade nas informações. Nesse cenário desafiador, é fundamental para os analistas e pesquisadores utilizarem métodos rigorosos, fontes confiáveis e abordagens transparentes ao analisar dados relacionados a novas doenças. A colaboração internacional, a transparência nos processos de coleta de dados e a comunicação eficaz são essenciais para entender adequadamente e responder a uma doença emergente.
+
+Der Prozess der Analyse einer neuen Krankheit, wie einer globalen Pandemie, ist unglaublich herausfordernd. Der Mangel an vorherigem Wissen über die Krankheit macht es schwierig, ihre Verbreitung und Auswirkungen auf die öffentliche Gesundheit zu verstehen. Darüber hinaus gibt es Konflikte zwischen den von Bundes- und Landesregierungen bereitgestellten Daten sowie von inoffiziellen Quellen. Regierungen können politische und wirtschaftliche Gründe haben, um Daten auf bestimmte Weise zu präsentieren, was zu Diskrepanzen in den offiziellen Statistiken führt. Unterschiede in den Methoden der Datensammlung und in den Definitionen von Fällen tragen ebenfalls zur Diskrepanz in den Informationen bei. In dieser herausfordernden Situation ist es für Analysten und Forscher entscheidend, rigorose Methoden, zuverlässige Quellen und transparente Ansätze bei der Analyse von Daten zu neuen Krankheiten zu verwenden. Internationale Zusammenarbeit, Transparenz bei den Datensammelprozessen und effektive Kommunikation sind entscheidend, um eine aufkommende Krankheit angemessen zu verstehen und darauf zu reagieren.
 
 
 
@@ -18,9 +19,9 @@ O processo de analisar uma nova doença, como uma pandemia global, é incrivelme
 * [Medium](https://medium.com/@alexandrewildtgraziani/covid19-datenvisualisierung-3b2d1de1cef3)
 * [Blog](https://sigmoidal.ai)
 
-### Obtenção dos Dados
- Os dados foram obtidos do site Our World in Data, uma instituição filantrópica sediada na Oxford Martin School, que faz parte da Faculdade de Ciências Sociais da Universidade de Oxford. Seu objetivo é fornecer dados sobre desenvolvimento populacional, alimentação, tecnologia, guerra, prosperidade, mídia e política, entre outras áreas, considerando aspectos demográficos, econômicos, geográficos e culturais.
- Our World in Data obtém seus dados de instituições internacionais ou agências estatísticas, como a OCDE, o Banco Mundial e instituições da ONU. Além disso, utiliza dados oficiais de fontes governamentais. Por exemplo, nossos conjuntos de dados sobre vacinação e testes de COVID-19 compilam os números oficiais mais recentes publicados por governos e ministérios da saúde em todo o mundo.
+### Datenbeschffaung
+Die Daten wurden von der Website Our World in Data bezogen, einer gemeinnützigen Institution mit Sitz an der Oxford Martin School, die Teil der Fakultät für Sozialwissenschaften der Universität Oxford ist. Ihr Ziel ist es, Daten zu Themen wie Bevölkerungsentwicklung, Ernährung, Technologie, Krieg, Wohlstand, Medien und Politik bereitzustellen, wobei demografische, wirtschaftliche, geografische und kulturelle Aspekte berücksichtigt werden.
+Our World in Data bezieht seine Daten von internationalen Institutionen oder statistischen Ämtern wie der OECD, der Weltbank und UN-Einrichtungen. Darüber hinaus werden offizielle Daten von Regierungsquellen verwendet. Beispielsweise werden unsere Datensätze zur Impfung und COVID-19-Tests aus den neuesten offiziellen Zahlen zusammengestellt, die von Regierungen und Gesundheitsministerien weltweit veröffentlicht werden.
 
 * [Link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 
