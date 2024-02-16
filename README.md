@@ -26,7 +26,7 @@ Our World in Data bezieht seine Daten von internationalen Institutionen oder sta
 * [Link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 
 
-Além disso Vamos criar um mapa da COVID-19 no Brasil. Para isso, vou utilizar a biblioteca Folium. A base de dados será a do Ministério da Saúde, onde vamos converter os endereços em coordenadas geográficas (latitude e longitude).
+Außerdem werden wir eine COVID-19-Karte von Brasilien erstellen. Dazu werde ich die Bibliothek Folium verwenden. Die Datenbasis wird die des Gesundheitsministeriums sein, wo wir Adressen in geografische Koordinaten (Breitengrad und Längengrad) umwandeln werden.
 
 * [Link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 
@@ -34,20 +34,23 @@ Além disso Vamos criar um mapa da COVID-19 no Brasil. Para isso, vou utilizar a
 
 ### Projekt 
 
-Este projeto será dividido em duas fases. Na primeira fase, serão utilizados dados da Covid-19 de vários países, especialmente da China, EUA, Brasil e Alemanha. Na segunda fase, veremos os resultados das restrições nacionais, principalmente no Brasil. Também foram calculadas novas features, como a Taxa de Infecção e a Taxa de Letalidade no Brasil. Utilizando técnicas de visualização de dados, serão abordadas questões analíticas específicas. Primeiramente, os conjuntos de dados são preparados e, em seguida, os seguintes pontos são investigados.
+
+Dieses Projekt wird in zwei Phasen unterteilt sein. In der ersten Phase werden COVID-19-Daten aus verschiedenen Ländern verwendet, insbesondere aus China, den USA, Brasilien und Deutschland. In der zweiten Phase werden wir die Ergebnisse nationaler Beschränkungen sehen, hauptsächlich in Brasilien. Es wurden auch neue Merkmale berechnet, wie die Infektionsrate und die Letalitätsrate in Brasilien. Unter Verwendung von Datenvisualisierungstechniken werden spezifische analytische Fragen behandelt. Zuerst werden die Datensätze vorbereitet, und dann werden die folgenden Punkte untersucht.
 
 
-1. Como está a disseminação do vírus nesses países?
+1. Wie verbreitet sich das Virus in diesen Ländern?
 
-2. Taxa de Letalidade: A percentagem de casos confirmados de COVID-19 que resultam em morte.
+2. Letalitätsrate: Der Prozentsatz der bestätigten COVID-19-Fälle, die tödlich enden.
 
-3. As restrições nacionais e o autoisolamento em decorrência da Covid-19 têm impacto real na transmissão da COVID-19?
+3. Haben nationale Beschränkungen und Selbstisolationsmaßnahmen aufgrund von COVID-19 einen tatsächlichen Einfluss auf die Übertragung von COVID-19?
 
-4. Visualização dos efeitos do lockdown e na taxa de mortalidade.
+4. Visualisierung der Auswirkungen des Lockdowns auf die Sterblichkeitsrate.
   
-5. Relação entre casos confirmados e óbitos confirmados.
+5. Beziehung zwischen bestätigten Fällen und bestätigten Todesfällen.
 
-6. Incidência: O número de novos casos por uma população específica (geralmente por 100.000 habitantes) em um determinado período.
+6. Inzidenz: Die Anzahl neuer Fälle pro eine spezifische Bevölkerung (normalerweise pro 100.000 Einwohner) in einem bestimmten Zeitraum.
+
+
 
 
 ### Bibliotecas usadas na visualização dos dados nesse projeto:
