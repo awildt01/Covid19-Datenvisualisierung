@@ -35,7 +35,10 @@ Außerdem werden wir eine COVID-19-Karte von Brasilien erstellen. Dazu werde ich
 ### Projekt 
 
 
+
 Dieses Projekt wird in zwei Phasen unterteilt sein. In der ersten Phase werden COVID-19-Daten aus verschiedenen Ländern verwendet, insbesondere aus China, den USA, Brasilien und Deutschland. In der zweiten Phase werden wir die Ergebnisse nationaler Beschränkungen sehen, hauptsächlich in Brasilien. Es wurden auch neue Merkmale berechnet, wie die Infektionsrate und die Letalitätsrate in Brasilien. Unter Verwendung von Datenvisualisierungstechniken werden spezifische analytische Fragen behandelt. Zuerst werden die Datensätze vorbereitet, und dann werden die folgenden Punkte untersucht.
+
+
 
 
 1. Wie verbreitet sich das Virus in diesen Ländern?
