@@ -53,7 +53,9 @@ Dieses Projekt wird in zwei Phasen unterteilt sein. In der ersten Phase werden C
 
 
 
-### Bibliotecas usadas na visualização dos dados nesse projeto:
+
+
+### Die verwendeten Bibliotheken zur Visualisierung der Daten in diesem Projekt sind::
 
 + Matplotlib
 + Plotly
