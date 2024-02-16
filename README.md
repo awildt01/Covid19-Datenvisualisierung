@@ -58,6 +58,10 @@ Dieses Projekt wird in zwei Phasen unterteilt sein. In der ersten Phase werden C
 
 
 
+
+
+
+
 ### Die verwendeten Bibliotheken zur Visualisierung der Daten in diesem Projekt sind::
 
 + Matplotlib
